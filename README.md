@@ -1,1 +1,1 @@
-<font face=Minecraft size=30>Minecraft
+<font face=Minecraft size=30>Minecraft Mod
